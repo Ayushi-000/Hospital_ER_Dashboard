@@ -49,7 +49,7 @@ This is a clean and interactive Microsoft Excel dashboard project focused on Eme
 ## 🙋‍♀️ Created By
 
 **Ayushi Johari**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayushi-johari-554b4b252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
