@@ -19,9 +19,11 @@ This is a clean and interactive Microsoft Excel dashboard project focused on Eme
 ---
 
 ## 📁 Files Included
+[Homeroom_ER_Dashboard.xlsx.xlsx](https://github.com/user-attachments/files/20847342/Homeroom_ER_Dashboard.xlsx.xlsx)
+![Dashboard](https://github.com/user-attachments/assets/2cc30e89-32a5-4673-9e5d-2438ad4a7126)
 
-- `Hospital_EmergencyRoom_Dashboard_Ayushi.xlsx` – The full Excel dashboard file
-- `Screenshot.png` – (Optional) Preview image of the dashboard
+1– The full Excel dashboard file
+2 – (Optional)– The full Excel dashboard file
 
 ---
 
